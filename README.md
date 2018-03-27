@@ -1,2 +1,0 @@
-# PAW
-PAW for OpenAtom
